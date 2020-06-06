@@ -1,9 +1,0 @@
-{
-  "expoServerPort": 19000,
-  "expoServerNgrokUrl": "https://bq-sbg.dev-topnode.ecoleta-react-native.exp.direct",
-  "packagerNgrokUrl": "https://packager.bq-sbg.dev-topnode.ecoleta-react-native.exp.direct",
-  "ngrokPid": 23493,
-  "devToolsPort": 19002,
-  "packagerPort": 19001,
-  "packagerPid": 23459
-}
