@@ -2,8 +2,7 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    padding: 32,
-    paddingTop: 20,
+    paddingHorizontal: 32,
   },
 
   pointImage: {
